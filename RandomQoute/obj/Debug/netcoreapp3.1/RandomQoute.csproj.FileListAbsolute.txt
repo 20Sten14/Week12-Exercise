@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\bin\Debug\netcoreapp3.1\RandomQoute.exe
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\bin\Debug\netcoreapp3.1\RandomQoute.deps.json
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\bin\Debug\netcoreapp3.1\RandomQoute.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\bin\Debug\netcoreapp3.1\RandomQoute.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\bin\Debug\netcoreapp3.1\RandomQoute.dll
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\bin\Debug\netcoreapp3.1\RandomQoute.pdb
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.dll
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.pdb
+C:\Users\opilane\source\repos\Titpe21\Titpe\RandomQoute\obj\Debug\netcoreapp3.1\RandomQoute.genruntimeconfig.cache
